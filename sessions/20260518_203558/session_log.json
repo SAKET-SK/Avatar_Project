@@ -1,0 +1,16 @@
+{
+  "session_id": "20260518_203558",
+  "timestamp": "2026-05-18T20:36:56.523707",
+  "question": "What temperature should insulin be stored at?",
+  "answer": "Insulin should be stored in the refrigerator at a temperature between 2 and 8 degrees Celsius. Storing insulin outside this range may affect its potency and safety. If you have any further questions or concerns, I recommend consulting a pharmacist for more detailed guidance.",
+  "sources": [
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt"
+  ],
+  "user_audio": "sessions\\20260518_203558\\user_voice.wav",
+  "avatar_audio": "sessions\\20260518_203558\\dr_maya_voice.mp3",
+  "avatar_video": "sessions\\20260518_203558\\avatar_video.mp4",
+  "presenter_id": "v2_public_fiona_blue_shirt_lab@FQBA_hemBB",
+  "presenter_voice": "en-US-EmmaMultilingualNeural"
+}

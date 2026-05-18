@@ -1,0 +1,16 @@
+{
+  "session_id": "20260518_203310",
+  "timestamp": "2026-05-18T20:34:36.212198",
+  "question": ". .",
+  "answer": "I'm here to help with any questions you might have about medications or drug interactions. If you have a specific question, feel free to ask!",
+  "sources": [
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt"
+  ],
+  "user_audio": "sessions\\20260518_203310\\user_voice.wav",
+  "avatar_audio": "sessions\\20260518_203310\\dr_maya_voice.mp3",
+  "avatar_video": "sessions\\20260518_203310\\avatar_video.mp4",
+  "presenter_id": "v2_public_fiona_blue_shirt_lab@FQBA_hemBB",
+  "presenter_voice": "en-US-EmmaMultilingualNeural"
+}

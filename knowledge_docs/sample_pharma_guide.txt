@@ -1,0 +1,33 @@
+PHARMACEUTICAL STORAGE GUIDELINES
+
+Temperature Sensitivity:
+Most medications should be stored at controlled room temperature between 15 and
+25 degrees Celsius. Insulin and many biologics require refrigeration between 2
+and 8 degrees Celsius. Frozen vaccines must be maintained at minus 15 to minus
+25 degrees Celsius. Medications exposed to temperatures outside their specified
+range may lose potency or become unsafe.
+
+Light and Humidity:
+Many drugs are photosensitive and must be stored in amber or opaque containers
+away from direct sunlight. Humidity above 60 percent can cause tablets to
+dissolve, clump, or degrade prematurely. Bathroom cabinets are generally
+unsuitable for drug storage due to humidity from showers.
+
+Common Drug Interactions:
+Warfarin (Coumadin) has numerous clinically significant interactions. NSAIDs
+such as ibuprofen increase bleeding risk when combined with warfarin. Antibiotics
+including ciprofloxacin and metronidazole can potentiate warfarin's anticoagulant
+effect. INR monitoring is essential when starting or stopping any medication in
+a warfarin patient.
+
+Serotonin Syndrome Risk:
+Combining two or more serotonergic agents can cause serotonin syndrome, a
+potentially life-threatening condition. High-risk combinations include SSRIs with
+MAOIs, tramadol, or triptans. Symptoms include hyperthermia, agitation, clonus,
+and autonomic instability.
+
+Renal Dosage Adjustment:
+Many drugs require dose reduction in patients with impaired renal function.
+Creatinine clearance or eGFR is used to calculate appropriate dose adjustments.
+Metformin is contraindicated when eGFR falls below 30 mL per minute per 1.73 m
+squared.

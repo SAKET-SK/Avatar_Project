@@ -1,0 +1,16 @@
+{
+  "session_id": "20260518_203436",
+  "timestamp": "2026-05-18T20:35:41.294099",
+  "question": ". .",
+  "answer": "I'm here to help with any questions you might have about medications. Please feel free to ask!",
+  "sources": [
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt",
+    "knowledge_docs\\sample_pharma_guide.txt"
+  ],
+  "user_audio": "sessions\\20260518_203436\\user_voice.wav",
+  "avatar_audio": "sessions\\20260518_203436\\dr_maya_voice.mp3",
+  "avatar_video": "sessions\\20260518_203436\\avatar_video.mp4",
+  "presenter_id": "v2_public_fiona_blue_shirt_lab@FQBA_hemBB",
+  "presenter_voice": "en-US-EmmaMultilingualNeural"
+}
